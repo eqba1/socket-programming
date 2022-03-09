@@ -1,10 +1,11 @@
 # UOK Socket Programming 
-The GitHub repository for Socket programming presentation in March 2022
+The GitHub repository for Socket Programming presentation in March 2022
 
 ## A Command-Line Chat Room Application using python
 
 ### Run:
-> Example
+> Example:
+
 First Change the directory to `./src` then run the command below:
 `Server ` : 
 ```bash
@@ -29,10 +30,9 @@ blocking_errnos', '_intenum_converter', ... ]
 
 # Useful link
 ## Course & Book
-1. [Mastering Python for Networking and Security]() (book)
-2. [Mastering Python Networking]() (book)
-3. [Socket Programming in Python]() (course)
-4. [Learning Socket Programming in C]() (course)
+1. [Mastering Python for Networking and Security](https://www.amazon.com/Mastering-Python-Networking-Security-networking-dp-1839217162/dp/1839217162/ref=dp_ob_title_bk) (book)
+2. [Mastering Python Networking](https://www.amazon.com/Mastering-Python-Networking-automation-programmability/dp/1839214678/ref=pd_sbs_2/130-4198929-6596130?pd_rd_w=Kggpg&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=T6CF7C1TCYCP16G49JSF&pd_rd_r=820c3858-4a05-4af3-94dd-a2f92e0978d1&pd_rd_wg=Dd0lC&pd_rd_i=1839214678&psc=1) (book)
+3. [Socket Programming in Python](https://www.udemy.com/course/socket-programming-in-python-socket-programming-course/?ranMID=39197&ranEAID=k*VTdGlCbXg&ranSiteID=k.VTdGlCbXg-H6P4ptWS5M9eFmlVCeNWTw&LSNPUBID=k*VTdGlCbXg&utm_source=aff-campaign&utm_medium=udemyads) (course)
 
 
 ## YouTube
