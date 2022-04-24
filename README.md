@@ -39,6 +39,7 @@ blocking_errnos', '_intenum_converter', ... ]
 - [Socket Programming Zero to Hero (Persian)](https://www.youtube.com/watch?v=XY-lbf1krpE&list=PLVN7DLFGYaP5h--UIKi7sVo61mSwAdk-0&index=1)
 - [Socket Programming Basics Presentation](https://www.youtube.com/watch?v=eVYsIolL2gE)
 - [Java Socket Programming](https://www.youtube.com/watch?v=BWjGQlIkgT4)
+- ⭐[Socket Programming](https://www.youtube.com/watch?v=G75vN2mnJeQ)
 
 ## Medium
 - [Linux Socket Programming by Example](https://medium.com/@jaidynannalise/read-download-linux-socket-programming-by-example-full-book-pdf-full-audiobook-7f75bdca1695)
