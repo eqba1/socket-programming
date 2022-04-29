@@ -2,6 +2,7 @@
 The GitHub repository for Socket Programming presentation in March 2022
 
 ## A Command-Line Chat Room Application using python
+- ✅ [Slide](./Socket_programming-Slide.pdf)
 
 ### Run:
 > Example:
