@@ -1,7 +1,7 @@
 import socket
 
 SERVER_IP='127.0.0.1'
-SERVER_PORT=5000
+SERVER_PORT=6000
 
 """
 Creating a socket:
@@ -49,6 +49,6 @@ try:
 
 except KeyboardInterrupt:
     print('\Wait')
+    # client.send('Server is Down')
     server.close()                              # Close the socket.
     print('End.')
-
