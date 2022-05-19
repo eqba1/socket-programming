@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #1f232c;
+}
+.leaderboard {
+  max-width: 25rem;
+  margin: 5rem auto;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 16px 1px rgb(32, 32, 32);
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header {
+  background-color: #ff7500;
+  color: white;
+  text-transform: uppercase;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  height: 14rem;
+  position: relative;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 3rem;
+  position: absolute;
+  margin-left: 3rem;
+  top: 4rem;
+}
+
+img {
+  height: 16rem;
+  position: absolute;
+  bottom: 0;
+  right: 1rem;
+}
+
+nav {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  font-size: 0.9rem;
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    transparent 10%,
+    rgba(22, 22, 22, 0.5)
+  );
+}
+
+nav a {
+  padding-top: 1rem;
+  padding-bottom: 0.75rem;
+  display: inline-block;
+  font-weight: bold;
+}
+
+nav a.active {
+  border-bottom: 4px solid #f0a900;
+}
+
+nav a:first-child {
+  margin-left: 3rem;
+}
+
+nav a + a {
+  margin-left: 1rem;
+}
+
+table {
+  background-color: #16181e;
+  color: #999;
+  width: 100%;
+  border-collapse: collapse;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  overflow: hidden;
+}
+
+thead {
+  font-size: 0.7rem;
+  color: #555;
+  text-transform: uppercase;
+}
+
+tbody .nick {
+  color: white;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+tbody tr:nth-child(2n) {
+  background-color: #1f232c;
+}
+
+.nick {
+  text-align: left;
+}
+
+.rank,
+.language,
+.score {
+  text-align: right;
+}
+
+.rank {
+  width: 4ch;
+  padding-left: 1rem;
+}
+
+.language,
+.score {
+  width: 8ch;
+}
+
+th {
+  padding: 1.5rem 1rem 0.5rem;
+}
+
+td {
+  padding: 1rem 1rem;
+}
+
+/* #1f232c */
