@@ -18,6 +18,36 @@ $ python Server.py 9998
 $ python Client.py localhost 9998
 ```
 
+## Result
+- Parsa Memarzade - team: Zahra Hashemi
+    - [FTP Server](https://github.com/ParsaMemarzade/File-Transfer-with-Sockets)
+- Ali Nafisi
+    - [FTP Server](https://github.com/safinal/ftp-implementation)
+- Farouk Fallahi
+    - [FTP Server](https://github.com/FaroukFallahi/socketFTP/blob/master/cli/client.py)
+- ‌Babak khezri
+    - [FTP Server](https://github.com/Babak-khezri/socket-programin)
+- Nazanin Parvizi - team: Matin Gholami
+    - [FTP Server](https://github.com/NazaninParvizi/Socket)
+- Saeed Ahmad Nasab - team: Moslem Goily
+    - [FTP Server](https://github.com/Sam-Adn/project)
+- Elina Panahy - team: Payam Shah Mohammadi
+    - [FTP Server](https://github.com/elinapanahy/elina)
+- Pouya Ayoubi - team: Danesh Abdi - Neda Bakhtiar
+    - [FTP Server](https://github.com/pouya-p/Socket/tree/main/Socket)
+- Parand Salvati - team: Adib Mardokhi
+    - [FTP Server](https://github.com/Redarrow76/socket)
+- Nazila Hoessini - team: Maede Ghaderi
+    - [FTP Server](https://github.com/NazilaHosseini/simpleftpserver)
+- Hemin Ahmadi - team: Mohammad Shikh Ahmadi
+    - [FTP Server](https://github.com/smsag99/Graphical_FTP_ClientServer)
+- Hasti Malmir - team: Nika Amanati
+    - [FTP Server](https://github.com/HastiMalmir78/SocketProgramming/tree/main)
+- Negin Ahmadi 
+    - [FTP Server](https://github.com/neginA1280/ftp-golang)
+- Kamal Moradi - team: Chalak Azizi
+    - [FTP Server](https://github.com/kamal1500/ftp-client-server)
+
 ## Description
 > The Socket module in Python
 ```python
